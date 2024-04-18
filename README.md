@@ -10,12 +10,12 @@
 ### Решение 1
 
 
-[Конфигурационный файл haproxy для задания №1](https://github.com/blackgult/sflt-hw2/blob/main/haproxy1.cfg)
+[Конфигурационный файл haproxy для задания №1](https://github.com/George210890/2.md/blob/main/haproxy1%20(1).cfg)
 
 Скриншоты работы haproxy и страница статистики
 
-![1-1](https://github.com/blackgult/sflt-hw2/blob/main/1-1.PNG)
-![1-2](https://github.com/blackgult/sflt-hw2/blob/main/1-2.PNG)
+![1-1](https://github.com/George210890/2.md/blob/main/1-1.PNG)
+![1-2](https://github.com/George210890/2.md/blob/main/1-2.PNG)
 
 ------
 
@@ -28,9 +28,9 @@
 ### Решение 2
 
 В конфигурационном файле haproxy для второго задания переделал секцию backend web_servers
-[Конфигурационный файл haproxy для задания №2](https://github.com/blackgult/sflt-hw2/blob/main/haproxy2.cfg)
+[Конфигурационный файл haproxy для задания №2](https://github.com/George210890/2.md/blob/main/haproxy2%20(1).cfg)
 
 Скриншоты работы haproxy второго задания и страница статистики
 
-![2-1](https://github.com/blackgult/sflt-hw2/blob/main/2-1.PNG)
-![2-2](https://github.com/blackgult/sflt-hw2/blob/main/2-2.PNG)
+![2-1](https://github.com/George210890/2.md/blob/main/2-1.PNG)
+![2-2](https://github.com/George210890/2.md/blob/main/2-2.PNG)
